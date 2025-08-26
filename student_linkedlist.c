@@ -1,5 +1,5 @@
 //student record
-#include"declaration.h"
+#include"header.h"
 int main(){
 	ST *hptr=0;
 	char ch;
