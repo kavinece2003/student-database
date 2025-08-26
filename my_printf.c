@@ -1,4 +1,4 @@
-#include"declaration.h"
+#include"header.h"
 void my_printf(ST *ptr){
 	
 	printf("\n");
