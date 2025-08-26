@@ -1,4 +1,4 @@
-#include"declaration.h"
+#include"header.h"
 /*
 void add_end(ST **ptr)//ptr=&hptr// *ptr=hptr;
 {
