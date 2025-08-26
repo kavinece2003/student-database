@@ -1,4 +1,4 @@
-#include "declaration.h"
+#include "header.h"
 #include <stdlib.h>
 #include <string.h>
 
