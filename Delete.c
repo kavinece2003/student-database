@@ -1,4 +1,4 @@
-#include"declaration.h"
+#include"header.h"
 
 void Delete(ST **ptr,int n) //ST **ptr = &hptr; //ptr = &hptr; //*ptr = hptr;
 {
