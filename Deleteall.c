@@ -1,4 +1,4 @@
-#include"declaration.h"
+#include"header.h"
 void Deleteall(ST **ptr)
 {
 	ST *temp = *ptr;
