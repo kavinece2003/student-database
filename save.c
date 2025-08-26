@@ -1,4 +1,4 @@
-#include"declaration.h"
+#include"header.h"
 void save(ST *ptr){
 	FILE *fd = fopen("file1","w");
 	while(ptr!=0){
